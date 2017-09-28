@@ -7,3 +7,9 @@ References/Resources used:
 
 - HTML & CSS by Jon Duckett
 
+- Brackets Text Editor
+
+Tested on:
+
+- Google Chrome (Version 61)
+
