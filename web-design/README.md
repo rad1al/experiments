@@ -6,7 +6,8 @@ Experiments, explorations and preliminary implementations in HTML/CSS/JS.
 References/Resources used:
 
 - HTML & CSS by Jon Duckett
-
+- Eloquent Javascript 2nd Ed. by Marijn Haverbeke 
+- Javascript & JQuery by Jon Duckett
 - Brackets Text Editor
 
 Tested on:
